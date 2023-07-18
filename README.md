@@ -2,7 +2,8 @@
 𝖗𝖊𝖛𝖊𝖗𝖘𝖊 𝖊𝖓𝖌𝖎𝖓𝖊𝖊𝖗𝖎𝖓𝖌
 𝖕𝖊𝖓𝖙𝖊𝖘𝖙𝖎𝖓𝖌
 
-![download](https://github.com/6ky/6ky/assets/80994667/d9db5d3a-e828-4aae-a7ca-24b8f9a88521)
+![e4bd66b2607b90a5b60b6ef3b491fd3e](https://github.com/6ky/6ky/assets/80994667/4aac93be-ffb0-4898-b12c-9a93747ee4dd)
+
 
 
 
