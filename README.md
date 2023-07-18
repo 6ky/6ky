@@ -1,4 +1,9 @@
-### Hi there 👋
+𝖋𝖑𝖚𝖊𝖓𝖙 𝖕𝖞𝖙𝖍𝖔𝖓 𝖉𝖊𝖛 - 𝖜𝖊𝖇 𝖉𝖊𝖛
+𝖗𝖊𝖛𝖊𝖗𝖘𝖊 𝖊𝖓𝖌𝖎𝖓𝖊𝖊𝖗𝖎𝖓𝖌
+𝖕𝖊𝖓𝖙𝖊𝖘𝖙𝖎𝖓𝖌
+![download](https://github.com/6ky/6ky/assets/80994667/d9db5d3a-e828-4aae-a7ca-24b8f9a88521)
+
+
 
 <!--
 **6ky/6ky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
