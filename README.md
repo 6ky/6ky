@@ -1,19 +1,16 @@
-![e4bd66b2607b90a5b60b6ef3b491fd3e](https://github.com/6ky/6ky/assets/80994667/4aac93be-ffb0-4898-b12c-9a93747ee4dd)
+<div align="center">
+  <img src="https://github.com/6ky/6ky/assets/80994667/4aac93be-ffb0-4898-b12c-9a93747ee4dd" width="100%" />
+</div>
 
+<br />
 
+**full stack developer & reverse engineer**
 
+building [Volari](https://volari.app) — instagram growth automation for creators
 
-<!--
-**6ky/6ky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**links**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 [volari.app](https://volari.app)
+- 📸 [@kyu](https://instagram.com/kyu)
