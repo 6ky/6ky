@@ -10,11 +10,11 @@
 <br/>
 
 ```python
-kyu = {
+ssh = {
     "building":   "Volari — Instagram automation SaaS",
     "stack":      ["Python", "TypeScript", "Electron", "Next.js", "FastAPI"],
     "expertise":  ["automation", "reverse engineering", "AI systems", "desktop apps"],
-    "links":      ["volari.app", "instagram.com/kyu"],
+    "links":      ["volari.app"],
 }
 ```
 
